@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://img.freepik.com/free-vector/blue-neon-glow-rectangle-frame_107791-27358.jpg?semt=ais_hybrid&w=740&q=80" alt="Neon Frame" width="100%">
+</p>
+
 # 🎨 Modern Card Stack Showcase
 
 A stunning, interactive card stacking website featuring smooth scroll animations, modern design principles, and cutting-edge visual effects. Built with vanilla HTML, CSS, and GSAP ScrollTrigger.
@@ -19,7 +23,7 @@ A stunning, interactive card stacking website featuring smooth scroll animations
 
 ## 🚀 Demo
 
-![Card Stack Demo](https://via.placeholder.com/800x400/667eea/ffffff?text=Card+Stack+Animation)
+[Card Stack Demo](https://moderncardstack.netlify.app/)
 
 *Smooth scroll-triggered stacking animation with progressive scaling*
 
