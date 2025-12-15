@@ -46,8 +46,8 @@ No build tools or package managers required! This project uses:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/vishalvalvi/premium-card-stack.git
-   cd premium-card-stack
+   git clone https://github.com/vishalvalvi/modern-card-stack.git
+   cd modern-card-stack
    ```
 
 2. **Open in browser**
@@ -67,19 +67,11 @@ No build tools or package managers required! This project uses:
 ## 📁 Project Structure
 
 ```
-premium-card-stack/
+modern-card-stack/
 │
 ├── index.html              # Main HTML file with embedded CSS and JS
 ├── README.md              # Project documentation
-├── LICENSE                # MIT License file
-│
-├── assets/                # Optional: Local assets folder
-│   ├── images/           # Replace Unsplash images with your own
-│   └── fonts/            # Custom fonts if needed
-│
-└── docs/                 # Optional: Additional documentation
-    ├── CHANGELOG.md      # Version history
-    └── CONTRIBUTING.md   # Contribution guidelines
+
 ```
 
 ## 🎨 Customization
@@ -209,9 +201,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Vishal Valvi**
 
-- GitHub: [@vishalvalvi](https://github.com/vishalvalvi)
-- LinkedIn: [Vishal Valvi](https://linkedin.com/in/vishalvalvi)
-- Portfolio: [vishalvalvi.com](https://vishalvalvi.com)
+- GitHub: [@vishalvalvi](https://github.com/VishalValvi-83)
+- LinkedIn: [Vishal Valvi](https://linkedin.com/in/vishal-valvi)
+- Instagram: [vishalvalvi.com](https://www.instagram.com/v.i.s.h.a.l__83)
 
 ## 🙏 Acknowledgments
 
